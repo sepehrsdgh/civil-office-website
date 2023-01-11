@@ -11,6 +11,7 @@ function App() {
       <div className="flex flex-row items-center p-4 text-center bg-slate-500 ">
         <div>icon</div>
         <div className="w-8 mx-3">بیا کار کنیم!</div>
+        <div>ali</div>
       </div>
       <div className="flex flex-row ">
         <div className="flex flex-row items-center">
